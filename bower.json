@@ -6,7 +6,7 @@
     "Dave Kerr (github.com/dwmkerr)"
   ],
   "description": "AngularJS Service for showing Modals and Popups",
-  "main": "dst/angular-modal-service.js",
+  "main": "src/angular-modal-service.js",
   "keywords": [
     "angular",
     "angularjs",
@@ -21,7 +21,6 @@
     "bower_components",
     "test",
     "samples",
-    "src",
     ".gitignore",
     "*.json",
     "server.js",
